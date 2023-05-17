@@ -2,7 +2,7 @@
 import './App.css';
 import Navbar from './components/Navbar/Navbar';
 import ItemListContainer from './components/Navbar/ItemListContainer/ItemListContainer';
-import ItemCount from './components/Navbar/ItemCount/ItemCount';
+import ItemCount from './components/ItemCount/ItemCount';
 function App() {
   return (
     <div className="App">
